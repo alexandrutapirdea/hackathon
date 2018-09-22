@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebc14350-4c61-4b22-a9eb-40a03f23ea6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/hackathon.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ABdev/ABdev_extension/app/dist/experiment.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/ABdev/ABdev_extension/app/dist/experiment.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ABdev/ABdev_extension/app/dist/experiment.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ABdev/ABdev_extension/app/dist/experiment.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ABdev/ABdev_extension/app/dist/experiment.mixed.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ABdev/ABdev_extension/app/dist/experiment.mixed.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ABdev/ABdev_extension/app/js/core.js" beforeDir="false" afterPath="$PROJECT_DIR$/ABdev/ABdev_extension/app/js/core.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ABdev/ABdev_extension/experiments/vodafone/js/experiment.js" beforeDir="false" afterPath="$PROJECT_DIR$/ABdev/ABdev_extension/experiments/vodafone/js/experiment.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABdev/ABdev_extension/app/js/vendor/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ABdev/ABdev_extension/app/js/vendor/jquery.min.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,15 +57,17 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="4299" />
-          <entry key="less" value="216" />
+          <entry key="js" value="6306" />
+          <entry key="less" value="356" />
+          <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="51" />
-          <entry key="JavaScript" value="4248" />
-          <entry key="Less" value="216" />
+          <entry key="JavaScript" value="6255" />
+          <entry key="Less" value="356" />
+          <entry key="PLAIN_TEXT" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -95,11 +91,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ABdev/ABdev_extension/experiments/vodafone/js/experiment.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="225" column="20" selection-start-line="225" selection-start-column="20" selection-end-line="225" selection-end-column="20" />
+            <state relative-caret-position="456">
+              <caret line="336" column="40" selection-start-line="336" selection-start-column="40" selection-end-line="336" selection-end-column="40" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <element signature="e#101#109#0" />
                 <element signature="e#101#2120#0" />
               </folding>
             </state>
@@ -109,8 +104,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ABdev/ABdev_extension/experiments/vodafone/less/experiment.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-16">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            <state relative-caret-position="68">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -129,15 +124,29 @@
       <find>https://maps.googleapis.com/maps/api/js</find>
       <find>close</find>
       <find>getLocationgetLocation</find>
-      <find>getLocation</find>
-      <find>getLocationByDenumireProdus</find>
-      <find>locatiiProdus</find>
       <find>setLocation</find>
-      <find>denumireProdus</find>
+      <find>==</find>
+      <find>h1</find>
+      <find>getLocationByDenumireProdus</find>
+      <find>detalii_magazindetalii_magazin</find>
+      <find>button</find>
       <find>Samsung GALAXY J5 2017 Negru 4G</find>
+      <find>compareStrings</find>
+      <find>getUrlParameter</find>
+      <find>detalii_magazin</find>
+      <find>locatiiProdus</find>
+      <find>denumireProdusdenumireProdus</find>
+      <find>denumireProdus</find>
+      <find>showMap</find>
+      <find>distance</find>
+      <find>getLocation</find>
+      <find>alert(</find>
+      <find>showB</find>
+      <find>$('#content')</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ABdev" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -279,7 +288,7 @@
       <workItem from="1537613094293" duration="1141000" />
       <workItem from="1537614314328" duration="180000" />
       <workItem from="1537614509101" duration="46000" />
-      <workItem from="1537615576256" duration="19048000" />
+      <workItem from="1537615576256" duration="28420000" />
     </task>
     <task id="LOCAL-00001" summary="First commit tap">
       <created>1537565396692</created>
@@ -288,11 +297,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537565396692</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added map">
+      <created>1537635837194</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1537635837194</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21068000" />
+    <option name="totallyTimeSpent" value="30440000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -303,7 +319,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info active="true" anchor="bottom" id="Command Line Tools Console" sideWeight="0.49932885" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -313,7 +329,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067115" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067115" side_tool="true" weight="0.14468086" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -328,7 +344,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit tap" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit tap" />
+    <MESSAGE value="Added map" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added map" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test.js" />
@@ -383,18 +400,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ABdev/ABdev_extension/experiments/vodafone/less/experiment.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        <state relative-caret-position="68">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ABdev/ABdev_extension/experiments/vodafone/js/experiment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="225" column="20" selection-start-line="225" selection-start-column="20" selection-end-line="225" selection-end-column="20" />
+        <state relative-caret-position="456">
+          <caret line="336" column="40" selection-start-line="336" selection-start-column="40" selection-end-line="336" selection-end-column="40" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#101#109#0" />
             <element signature="e#101#2120#0" />
           </folding>
         </state>
