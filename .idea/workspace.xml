@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebc14350-4c61-4b22-a9eb-40a03f23ea6d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABdev" beforeDir="false" afterPath="$PROJECT_DIR$/ABdev" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ABdev/ABdev_extension/app/dist/experiment.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/ABdev/ABdev_extension/app/dist/experiment.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ABdev/ABdev_extension/app/dist/experiment.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ABdev/ABdev_extension/app/dist/experiment.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ABdev/ABdev_extension/app/dist/experiment.mixed.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ABdev/ABdev_extension/app/dist/experiment.mixed.min.js" afterDir="false" />
@@ -48,16 +50,18 @@
     <session id="1987706638">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="6306" />
+          <entry key="js" value="7633" />
           <entry key="less" value="356" />
           <entry key="txt" value="9" />
         </counts>
@@ -65,22 +69,24 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="51" />
-          <entry key="JavaScript" value="6255" />
+          <entry key="JavaScript" value="7582" />
           <entry key="Less" value="356" />
           <entry key="PLAIN_TEXT" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="14" />
-          <entry key="json" value="1" />
+          <entry key="html" value="1" />
+          <entry key="js" value="20" />
+          <entry key="json" value="4" />
           <entry key="less" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="14" />
+          <entry key="HTML" value="1" />
+          <entry key="JSON" value="4" />
+          <entry key="JavaScript" value="20" />
           <entry key="Less" value="2" />
         </counts>
       </usages-collector>
@@ -91,14 +97,75 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ABdev/ABdev_extension/experiments/vodafone/js/experiment.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="336" column="40" selection-start-line="336" selection-start-column="40" selection-end-line="336" selection-end-column="40" />
+            <state relative-caret-position="17">
+              <caret line="1" column="42" lean-forward="true" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <element signature="e#101#2120#0" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ABdev/ABdev_extension/experiments/vodafone/js/lista_locatii.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="901">
+              <caret line="53" column="35" lean-forward="true" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ABdev/ABdev_extension/manifest.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ABdev/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-204" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ABdev/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ABdev/ABdev_extension/experiments/hack/js/experiment.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ABdev/ABdev_extension/experiments/hack2/js/experiment.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ABdev/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ABdev/ABdev_extension/app/extension.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -130,7 +197,6 @@
       <find>getLocationByDenumireProdus</find>
       <find>detalii_magazindetalii_magazin</find>
       <find>button</find>
-      <find>Samsung GALAXY J5 2017 Negru 4G</find>
       <find>compareStrings</find>
       <find>getUrlParameter</find>
       <find>detalii_magazin</find>
@@ -143,14 +209,13 @@
       <find>alert(</find>
       <find>showB</find>
       <find>$('#content')</find>
+      <find>Samsung GALAXY J5 2017 Negru 4G</find>
+      <find>getRouteDuration</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ABdev" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -161,6 +226,7 @@
         <option value="$PROJECT_DIR$/ABdev/ABdev_extension/experiments/vodafone/js/lista_produse.js" />
         <option value="$PROJECT_DIR$/ABdev/ABdev_extension/app/js/core.js" />
         <option value="$PROJECT_DIR$/ABdev/ABdev_extension/experiments/vodafone/less/experiment.less" />
+        <option value="$PROJECT_DIR$/ABdev/ABdev_extension/experiments/hack2/js/experiment.js" />
         <option value="$PROJECT_DIR$/ABdev/ABdev_extension/experiments/vodafone/js/experiment.js" />
       </list>
     </option>
@@ -180,8 +246,7 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="258" />
-    <option name="y" value="98" />
+    <option name="x" value="98" />
     <option name="width" value="1180" />
     <option name="height" value="975" />
   </component>
@@ -191,7 +256,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -234,25 +298,17 @@
               <item name="vodafone" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="hackathon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackathon" type="462c0819:PsiDirectoryNode" />
-              <item name="ABdev" type="462c0819:PsiDirectoryNode" />
-              <item name="ABdev_extension" type="462c0819:PsiDirectoryNode" />
-              <item name="experiments" type="462c0819:PsiDirectoryNode" />
-              <item name="vodafone" type="462c0819:PsiDirectoryNode" />
-              <item name="less" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jsx.switch.disabled" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hackathon3" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
@@ -288,7 +344,9 @@
       <workItem from="1537613094293" duration="1141000" />
       <workItem from="1537614314328" duration="180000" />
       <workItem from="1537614509101" duration="46000" />
-      <workItem from="1537615576256" duration="28420000" />
+      <workItem from="1537615576256" duration="34806000" />
+      <workItem from="1537655564176" duration="255000" />
+      <workItem from="1537656347637" duration="3682000" />
     </task>
     <task id="LOCAL-00001" summary="First commit tap">
       <created>1537565396692</created>
@@ -308,16 +366,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30440000" />
+    <option name="totallyTimeSpent" value="40763000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16308725" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1671141" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Command Line Tools Console" sideWeight="0.49932885" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -330,6 +386,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067115" side_tool="true" weight="0.14468086" />
+      <window_info active="true" anchor="bottom" id="Command Line Tools Console" order="12" sideWeight="0.49932885" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -349,38 +406,11 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test.js" />
-    <entry file="file://$PROJECT_DIR$/ABdev/ABdev_extension/experiments/test/js/experiment.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABdev/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="34" column="13" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ABdev/ABdev_extension/experiments/test/js/experiment.js" />
     <entry file="file://$PROJECT_DIR$/ABdev/ABdev_extension/experiments/vodafone/js/lista_produse.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="543" column="4" lean-forward="true" selection-start-line="543" selection-start-column="4" selection-end-line="602" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABdev/ABdev_extension/experiments/vodafone/js/lista_locatii.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="53" column="35" lean-forward="true" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABdev/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-714">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -398,6 +428,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ABdev/ABdev_extension/app/dist/experiment.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABdev/ABdev_extension/app/dist/experiment.mixed.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABdev/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABdev/ABdev_extension/app/extension.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/ABdev/ABdev_extension/experiments/vodafone/less/experiment.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -405,13 +451,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ABdev/ABdev_extension/experiments/hack2/js/experiment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABdev/ABdev_extension/experiments/hack/js/experiment.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABdev/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABdev/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABdev/ABdev_extension/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABdev/ABdev_extension/experiments/vodafone/js/lista_locatii.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="35" lean-forward="true" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ABdev/ABdev_extension/experiments/vodafone/js/experiment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="336" column="40" selection-start-line="336" selection-start-column="40" selection-end-line="336" selection-end-column="40" />
+        <state relative-caret-position="17">
+          <caret line="1" column="42" lean-forward="true" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#101#2120#0" />
           </folding>
         </state>
       </provider>
